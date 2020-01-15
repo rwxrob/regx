@@ -2,7 +2,6 @@
 
 [![GoDoc](https://godoc.org/github.com/rwxrob/regx?status.svg)](https://godoc.org/github.com/rwxrob/regx)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rwxrob/regx)](https://goreportcard.com/report/github.com/github.com/rwxrob/regx)
-[![Coverage](https://gocover.io/_badge/github.com/rwxrob/regx)](https://gocover.io/github.com/rwxrob/regx)
 
 
 Simple utility command to create and test Go-compatible regular
